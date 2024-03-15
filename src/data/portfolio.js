@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'Terminal Website',
+      title: 'CRM',
       imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      stack: ['Django', 'Python', 'MySQL'],
+      link: '#',
    },
    {
-      title: 'Developer Portfolio',
+      title: 'Car Zone',
       imgUrl: '/assets/dev-portfolio.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: '#',
    },
    {
-      title: 'AI Nerf Gun',
+      title: 'eCommerce',
       imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      stack: ['Python', 'Django', 'Boing'],
+      link: '#',
    },
 ]
